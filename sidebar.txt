@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spr:home|Door43 (spr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spr|d43-spr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spr/archive/master.zip|d43-spr.zip]]
+
+**Recent Changes**
+{{changes>ns = spr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spr|Ethnologue data]]
+
